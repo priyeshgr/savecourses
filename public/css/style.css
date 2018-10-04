@@ -1,0 +1,71 @@
+.header_status{
+	width: 100% !important;
+	background-color:#333;
+	height: 50px;
+	position: fixed;
+	top: 0;
+	margin:0;
+	left:0;
+	z-index: 1000;
+
+}
+
+.dataTables_wrapper.no-footer{
+	margin-top: 90px !important;
+}
+
+.alert{
+	font-size: 22px;
+	text-align: center;
+}
+
+.alert-saved{
+	color: green;
+
+}
+
+.alert-not_saved{
+
+}
+
+td{
+	text-align:center;
+}
+
+.saving-to-db{
+	padding-right: 60px;
+	padding-left: 60px;
+}
+
+a{
+	text-decoration: none;
+}
+
+
+.menu-list a{
+	margin-top: 5px;
+	border: solid 1px white;
+	border-radius: 10px;
+	padding: 7px;
+	float: right;
+	color: white;
+	font-weight: 500;
+	font-size: 20px;
+	
+
+}
+
+
+input {
+    background-color: none;
+    border: none;
+    text-decoration:none;
+}
+
+.title-header{
+	padding: 7px;
+	float: left;
+	color: white;
+	font-weight: 500;
+	font-size: 24px;
+}
